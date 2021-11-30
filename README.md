@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firoz-dev
+- 👋 Hi, I’m @Abdullah-Al Firoz
 - 👀 I’m interested in ReactJs, ASP.net core
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on ...
